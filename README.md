@@ -1,2 +1,2 @@
 # questions-game
-Jeu de questions sur python avec tkinter
+Jeu de questions sur python avec tkinter, projet fait en Première NSI, On devait faire 10 liste de 10 questions et lorsque le joueur trouvait la bonne réponse de la question choisit aléatoirement dans la première liste, son gain augmentait et la question suivante est choisi dans la deuxième liste. Enfaite, plus on progresse dans les listes plus les questions sont difficiles et plus le gain est  élevé. J'ai pensé à rajouter de la musique, ou entièrement changer l'interface pour le rendre plus dynamique et attractif mais je n'avais pas le temps, je suis actuellement en Terminal et j'entame le projet Space Invaders.
